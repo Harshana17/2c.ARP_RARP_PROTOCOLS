@@ -29,10 +29,12 @@ P
 
 ## PROGRAM - RARP
 
+![image](https://github.com/user-attachments/assets/7ccc05f4-9068-439e-8403-5d7cf4f7163c)
 
 
 ## OUPUT -RARP
 
+![image](https://github.com/user-attachments/assets/3cb59bfe-1e78-4f1d-82dc-acc160cf633d)
 
 
 ## RESULT
